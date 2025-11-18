@@ -404,7 +404,8 @@ function loadTechSkills(catId){
             <div class="jobentry-user-register-col">
                 <div class="jobentry-user-register-form-group">
                     <label for="txt_pass" class="jobentry-user-register-label">Password</label>
-                    <input type="password" name="txt_pass" id="txt_pass" class="jobentry-user-register-input" placeholder="Enter password" required>
+                    <input type="password" name="txt_pass" id="txt_pass" class="jobentry-user-register-input" placeholder="Password must be 8 characters long" required minlength="8">
+                    
                 </div>
                 
                 <div class="jobentry-user-register-form-group">
