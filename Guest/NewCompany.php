@@ -367,7 +367,7 @@ $sql="INSERT INTO tbl_company (company_name,company_email,company_contact,compan
                 
                 <div class="jobentry-register-form-group">
                     <label for="txt_password" class="jobentry-register-label">Password</label>
-                    <input type="password" name="txt_password" id="txt_password" class="jobentry-register-input" placeholder="Enter password" required />
+                    <input type="password" name="txt_password" id="txt_password" class="jobentry-register-input" placeholder="Password must be 8 characters long" required minlength="8"/>
                 </div>
             </div>
         </div>
