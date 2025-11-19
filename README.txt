@@ -74,20 +74,6 @@ Built as a 5th semester academic project.
 - ✅ **Candidate Management** - Update application statuses and manage hiring pipeline
 - 📁 **Document Verification** - Upload company license proof for authenticity
 
-### Platform Features:
-- 💾 **Smart File Management** - System preserves existing files when updating profile (no accidental deletion of logos, documents, or videos)
-- 📂 **Organized File Structure** - Separate folders for:
-  - Company profiles
-  - User profiles
-  - Resumes
-  - Introduction videos
-  - Company documents
-  - Verification proofs
-- 🔐 **Status-Based Visibility** - Content moderation through status flags (company status, job post status, user status)
-- 🎨 **Rich Job Posting** - Detailed formatting makes job information easy to understand
-
----
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap5
@@ -129,19 +115,6 @@ JobC/
 | File Management | ✅ Smart preservation | ❌ Often requires re-upload |
 | Spam Reporting | ✅ User-driven quality control | ⚠️ Limited options |
 
----
-
-## 💡 Why JobC?
-
-**JobC** stands for **Job Connect** - connecting the right talent with the right opportunities through:
-
-1. **Transparency:** Know your application status at every stage
-2. **Authenticity:** Video introductions reveal real personalities
-3. **Efficiency:** Category-based organization saves time
-4. **Focus:** Special attention to freshers and interns
-5. **Quality:** User reporting maintains platform integrity
-
----
 
 ## 🎯 Target Users
 
@@ -151,27 +124,10 @@ JobC/
 - **HR Professionals** looking for efficient candidate management
 - **Job Seekers** who value transparency in the hiring process
 
----
-
-## 📸 Features Showcase
-
-### Video Introduction System
-Candidates and companies can upload videos up to 50MB in multiple formats to showcase themselves authentically.
-
-### Status Tracking Dashboard
-Real-time updates on application status - viewed, shortlisted, hired, or rejected.
-
-### Category-Based Listings
-Jobs organized by categories on homepage for quick discovery.
-
-### Complete Company Pages
-Single-page view of company profile with all active job postings.
-
----
 
 ## 🎓 Academic Project Details
 
-- **Course:** 5th Semester Project
+- **Course:** 5th Semester Mini Project
 - **Development Time:** Several months
 - **Type:** Full-Stack Web Application
 - **Purpose:** Demonstrate comprehensive web development skills
@@ -181,9 +137,10 @@ Single-page view of company profile with all active job postings.
 ## 👨‍💻 Developer
 
 **Name:** [Jibin T George]  
+**College:** [St. Joseph's Academy Moolamattom]
 **Semester:** 5th Semester  
 **Project Title:** JobC Job Portal  
-**Tech Stack:** PHP | MySQL | Bootstrap | JavaScript
+**Tech Stack:** PHP | MySQL | Bootstrap | JavaScript | Xampp
 ---
 
 ## 🔮 Future Enhancements
@@ -196,32 +153,4 @@ Single-page view of company profile with all active job postings.
 - Analytics dashboard for employers
 - Email notifications for status updates
 
----
-
-## 📝 License
-
-This project is created for academic purposes.
-
----
-
-## 🤝 Contributing
-
-This is an academic project. Feedback and suggestions are welcome!
-
----
-
-## 📧 Contact
-
-For queries or feedback about this project, feel free to reach out.
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to all mentors and guides who supported this project
-- Special thanks to Claude AI and GitHub Copilot for being invaluable coding partners throughout the development journey
-- Built with dedication over several months
-- Special thanks to the web development community for resources and inspiration
-
----
 
