@@ -53,7 +53,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
                     <a href="HomePage.php" class="nav-item nav-link active">Home</a>
-                    <a href="Complaint.php" class="nav-item nav-link ">Applications</a>
+                    <a href="ApplyStatus.php" class="nav-item nav-link ">Applications</a>
                     <a href="Bookmarks.php" class="nav-item nav-link ">Bookmarks</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Profile</a>
